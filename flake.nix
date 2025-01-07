@@ -48,6 +48,7 @@
             redis
             nodejs
             eslint
+            pnpm
             nodePackages.prettier
             nodePackages.typescript
             nodePackages.typescript-language-server

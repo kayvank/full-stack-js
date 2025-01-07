@@ -5,7 +5,7 @@ A full stack javascript project using flake
 
 ## What is this
 
-A websocket prototype in typescript using
+Work book based on [typeScript Essentials book](https://www.totaltypescript.com/books/total-typescript-essentials)
 
 - nix
 
